@@ -1,0 +1,2 @@
+# Electronic Speed Controller
+ FPV Drone Motor and ESC Design (4S Lipo Battery) This project involves the design of an STM32-based FPV drone motor driver system. The components used in the design include BLDC motors, high-current capable MOSFETs, DRV8301 ESC controller, and appropriate power management circuits. The thrust calculations for the motors have been made, and the battery selection was optimized for flight time with a 4S Lipo battery. Additionally, system features like power distribution and protection mechanisms are also focused on.
