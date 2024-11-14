@@ -1,0 +1,5 @@
+Change Net Name : Old Net Name=SL_A New Net Name=S1_N
+Change Net Name : Old Net Name=SL_C New Net Name=S1_P
+Added Differential Pair: Name=S1
+Added Rule: Name=Schematic Supply Nets_5
+Added Class: Name=diff1

@@ -1,0 +1,24 @@
+Added Component: Designator=Q2(D2PAK-3 (TO-263-3))
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Infineon Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "IRF3205SPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "D2PAK Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/IRF3205SPBF/Infineon%20Technologies/view-part/576468/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q5(D2PAK-3 (TO-263-3))
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Infineon Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "IRF3205SPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "D2PAK Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/IRF3205SPBF/Infineon%20Technologies/view-part/576468/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=PVDD Pin=Q2-2
+Added Pin To Net: NetName=MotorOutC Pin=Q2-3
+Added Pin To Net: NetName=NetQ5_1 Pin=Q5-1
+Added Pin To Net: NetName=MotorOutC Pin=Q5-2
+Added Pin To Net: NetName=S1_P Pin=Q5-3
+Added Member To Class: ClassName=Sheet1 Member=Component Q2 IRF3205SPBF
+Added Member To Class: ClassName=Sheet1 Member=Component Q5 IRF3205SPBF

@@ -1,0 +1,9 @@
+Added Component: Designator=U(HTSSOP-56)
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "296-29433-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com.cn/product-detail/zh/texas-instruments/DRV8301DCAR/296-29433-1-ND/2743170?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DRV8301DCAR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "HTSSOP-56 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/DRV8301DCAR/Texas%20Instruments/view-part/46687/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Class: Name=Sheet1

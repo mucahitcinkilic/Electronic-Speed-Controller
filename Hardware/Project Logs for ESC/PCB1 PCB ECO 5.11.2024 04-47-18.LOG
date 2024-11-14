@@ -1,0 +1,8 @@
+Change Component Description : Designator=Q1 Old Description=RoHS Compliant New Description=RoHS Compliant | Low RDS_on_ | Industry-leading quality | Dynamic dv/dt Rating | Fast Switching | Fully Avalanche Rated | 175C Operating Temperature
+Change Component Description : Designator=Q2 Old Description=RoHS Compliant New Description=RoHS Compliant | Low RDS_on_ | Industry-leading quality | Dynamic dv/dt Rating | Fast Switching | Fully Avalanche Rated | 175C Operating Temperature
+Change Component Description : Designator=Q3 Old Description=RoHS Compliant New Description=RoHS Compliant | Low RDS_on_ | Industry-leading quality | Dynamic dv/dt Rating | Fast Switching | Fully Avalanche Rated | 175C Operating Temperature
+Change Component Description : Designator=Q4 Old Description=RoHS Compliant New Description=RoHS Compliant | Low RDS_on_ | Industry-leading quality | Dynamic dv/dt Rating | Fast Switching | Fully Avalanche Rated | 175C Operating Temperature
+Change Component Description : Designator=Q5 Old Description=RoHS Compliant New Description=RoHS Compliant | Low RDS_on_ | Industry-leading quality | Dynamic dv/dt Rating | Fast Switching | Fully Avalanche Rated | 175C Operating Temperature
+Change Component Description : Designator=Q Old Description=RoHS Compliant New Description=RoHS Compliant | Low RDS_on_ | Industry-leading quality | Dynamic dv/dt Rating | Fast Switching | Fully Avalanche Rated | 175C Operating Temperature
+Add Differential Pair: Number of nets in differential pair SL_A is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair SL_C is 1 instead of 2
